@@ -4,3 +4,4 @@ Suppose this is the file that is being worked on and two people are making alter
 
 Both people will make the update on the next line.
 
+Person 2 was here.
